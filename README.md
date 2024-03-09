@@ -1,3 +1,5 @@
+The app it is a quiz with react questions
+
 In second terminal
 To open the API Questions (data folder):
 
